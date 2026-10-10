@@ -6,9 +6,25 @@
 
 Dev-Trace is a structured record of my progress in learning C and deepening my understanding of low-level programming using the CPUlator ARMv7 DE1-SoC System simulator.
 
-The project documents my experiments, the problems I encounter, the solutions I develop, and the insights I gain along the way. Rather than simply collecting finished code, I want to preserve the thought process behind it: how I approach a problem, explore possible solutions, and learn from the results.
+The project documents my experiments, the problems I encounter, the solutions I develop, and the insights I gain along the way. Rather than simply collecting finished code, I want to preserve the thought process on how I approach a problem, explore possible solutions, and learn from the results.
 
 The project is also intended to inspire others interested in C programming, computer systems, and interacting with hardware through CPUlator.
+
+## Why CPUlator?
+
+CPUlator provides an accessible environment for exploring C programming and low-level computer systems without the need to set up a complete development toolchain locally.
+
+Some of its key advantages are:
+
+- **Hardware-oriented learning:** CPUlator simulates a processor and its associated peripherals, allowing experiments with memory-mapped I/O, registers, interrupts, and hardware interaction in a controlled environment.
+- **No local toolchain required:** The simulator runs in a web browser, so there is no need to download and configure a separate IDE, compiler, or hardware simulator to get started.
+- **Immediate experimentation:** Code can be written, executed, and debugged directly in the browser, making it easy to test ideas, investigate unexpected behavior, and refine solutions.
+- **Visual feedback:** Simulated devices such as LEDs, switches, buttons, seven-segment displays, and the VGA pixel buffer make the connection between code and hardware behavior easier to observe.
+- **A safe learning environment:** Experiments can be performed without requiring a physical DE1-SoC board, making it easier to explore unfamiliar concepts and recover from mistakes.
+
+CPUlator therefore serves as a practical bridge between learning C as a programming language and understanding how software interacts with a processor and its peripherals.
+
+Although simulation cannot capture every detail or limitation of physical hardware, it provides a convenient starting point for developing the concepts and problem-solving skills needed for low-level programming.
 
 ## Project Structure & Learning Path
 
