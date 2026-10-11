@@ -32,8 +32,8 @@ The project is divided into six groups, each focusing on a particular set of I/O
 
 | No. | Group | Focus |
 |---:|---|---|
-| 01 | [Management](https://github.com/CPUlator-ARMv7-DE1-SoC-System/Management.git) | Exploring ways to coordinate and schedule multiple devices, including controlling which devices can operate simultaneously and which must operate exclusively. |
-| 02 | [Displays](https://github.com/CPUlator-ARMv7-DE1-SoC-System/Displays.git) | Working with the VGA pixel buffer, LEDs, and seven-segment displays to explore visual output and display control. |
+| 01 | [Management](https://github.com/CPUlator-ARMv7-DE1-SoC-System/Management.git) | Working with the LEDs and seven-segment displays and exploring ways to coordinate and schedule multiple devices, including controlling which devices can operate simultaneously and which must operate exclusively. |
+| 02 | [Displays](https://github.com/CPUlator-ARMv7-DE1-SoC-System/Displays.git) | Working with the VGA pixel buffer to explore visual output and display control. |
 | 03 | [Timer](https://github.com/CPUlator-ARMv7-DE1-SoC-System/Timer.git) | Exploring timer devices, timing mechanisms, and time-dependent program behavior. |
 | 04 | [Carworld_UART](https://github.com/CPUlator-ARMv7-DE1-SoC-System/Timer.git) | Experiments involving Carworld and UART-based communication. |
 | 05 | [Audio](https://github.com/CPUlator-ARMv7-DE1-SoC-System/Timer.git) | Exploring audio devices, sound output, and audio-related programming concepts. |
