@@ -1,6 +1,7 @@
 ![Organization banner](assets/armv7-dev-trace-banner.svg)
-
-**An ongoing journey of learning, experimenting, and understanding C through CPUlator.**
+<p align="center">
+  An ongoing journey of learning, experimenting, and understanding C through CPUlator.
+</p>
 
 ## About the Project
 
