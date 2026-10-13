@@ -1,7 +1,5 @@
 ![Organization banner](assets/armv7-dev-trace-banner.svg)
 
-# Dev-Trace for the CPUlator ARMv7 DE1-SoC-System
-
 **An ongoing journey of learning, experimenting, and understanding C through CPUlator.**
 
 ## About the Project
