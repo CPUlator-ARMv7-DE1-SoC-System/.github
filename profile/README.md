@@ -3,6 +3,8 @@
   An ongoing journey of learning, experimenting, and understanding C through CPUlator.
 </p>
 
+<br>
+
 ## About the Project
 
 Dev-Trace is a structured record of my progress in learning C and deepening my understanding of low-level programming using the CPUlator ARMv7 DE1-SoC System simulator.
@@ -10,6 +12,8 @@ Dev-Trace is a structured record of my progress in learning C and deepening my u
 The project documents my experiments, the problems I encounter, the solutions I develop, and the insights I gain along the way. Rather than simply collecting finished code, I want to preserve the thought process on how I approach a problem, explore possible solutions, and learn from the results.
 
 The project is also intended to inspire others interested in C programming, computer systems, and interacting with hardware through CPUlator.
+
+<br>
 
 ## Why CPUlator?
 
@@ -27,6 +31,8 @@ CPUlator therefore serves as a practical bridge between learning C as a programm
 
 Although simulation cannot capture every detail or limitation of physical hardware, it provides a convenient starting point for developing the concepts and problem-solving skills needed for low-level programming.
 
+<br>
+
 ## Project Structure & Learning Path
 
 The project is divided into six groups, each focusing on a particular set of I/O devices or use cases. The groups are numbered to reflect the intended progression in complexity. As the project advances, later groups may build upon concepts, techniques, and solutions explored in earlier ones.
@@ -42,6 +48,8 @@ The project is divided into six groups, each focusing on a particular set of I/O
 
 *The numbering represents the intended learning progression, not necessarily a strict dependency between every group.*
 
+<br>
+
 ## Learning Approach
 
 The focus is not only on what works, but also on understanding why it works.
@@ -55,6 +63,8 @@ Throughout the project, I aim to document:
 - **The lessons learned:** What the experiment taught me and what I would improve or explore next.
 
 Where appropriate, later experiments incorporate ideas and techniques from previous groups, allowing individual concepts to evolve into more elaborate implementations.
+
+<br>
 
 ## Project Philosophy
 
