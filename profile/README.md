@@ -1,6 +1,7 @@
 ![Organization banner](assets/armv7-dev-trace-banner.svg)
 <p align="center">
-  An ongoing journey of learning, experimenting, and understanding C through CPUlator.
+  An ongoing journey of learning, experimenting, and understanding C through CPUlator. <br>
+  Created and maintained by <a href="https://github.com/PSMyth-jpg">PortSmyth</a>
 </p>
 
 <br>
